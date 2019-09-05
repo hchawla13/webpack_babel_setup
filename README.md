@@ -1,1 +1,1 @@
-# webpack_babel_setup
+# This is a basic setup for webpack babel
